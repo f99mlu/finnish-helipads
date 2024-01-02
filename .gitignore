@@ -1,0 +1,4 @@
+_PackageInt/
+Packages/
+PackagesMetadata/
+_build*.bat

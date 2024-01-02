@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{c5b49d55-1c7d-4c91-b8f0-f3bec29dd86b}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Pad_Square.gltf"/>
+	</LODS>
+</ModelInfo>

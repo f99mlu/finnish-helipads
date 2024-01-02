@@ -1,0 +1,127 @@
+Meilahti Heliport
+EFHY
+Helsinki
+Uusimaa
+60.18898902827544, 24.90748830150851
+
+Kilpisjärvi Heliport & seaplane dock
+EFEK
+Enontekiö
+Lapland
+69.00217122936743, 20.897036075576796
+
+Jorvin Hospital heliport
+EFEJ
+Espoo
+Uusimaa
+60.220740616289056, 24.68597086028781
+
+Helipad Keilalahti
+????
+Helsinki
+Uusimaa
+60.16948936838148, 24.830482908749403
+
+Ålands centralsjukhus
+EFMH
+Mariehamn
+Åland
+60.114740091723704, 19.932918232329317
+
+Houtskär Helikopterplatta
+????
+Turku
+Southwest Finland
+60.21944259983348, 21.376118769397245
+
+Peijaksen Hospital
+EFPE
+Vantaa
+Uusimaa
+60.3310128005706, 25.060850098607336
+
+Tavastia Proper Central Hospital
+EFHH
+Hämeenlinna
+Tavastia Proper
+60.991150973541465, 24.415457143503456
+
+Northern Karelia Central Hospital Heliport
+EFJE
+Joensuu
+North Karelia
+62.59095905670242, 29.777736138982632
+
+Central Finland Central Hospital
+EFJV
+Jyväskylä
+Central Finland
+62.23015943201204, 25.71152958054635
+
+Kuopio University Hospital Heliport
+EFPJ
+Kuopio
+Pohjois-Savo
+62.897205, 27.649376
+
+Päijät-Häme Central Hospital
+EFPL
+Lahti
+Päijät-Häme
+60.991703, 25.569430
+
+Oulu University Hospital
+EFHO
+Oulu
+Northern Ostrobothnia
+65.00380306049973, 25.52066000441421
+
+Lapland Central Hospital
+EFLR
+Rovaniemi
+Lapland
+66.491998, 25.778451
+
+Seinäjoki Central Hospital
+EFHS
+Seinäjoki
+Southern Ostrobothnia
+62.772112682594376, 22.81888415903662
+
+Tampere University Hospital
+EFPT
+Tampere
+Pirkanmaa
+61.504919320942676, 23.813382953622952
+
+Turku University Hospital
+EFTV
+Turku
+Southwest Finland
+60.453124134394514, 22.295850901831354
+
+Kasnäs Helipad
+????
+Kasnäs
+Kimitoön
+59.92534939222943, 22.410082689590972
+
+Tulludden Helipad
+????
+Tulludden
+Västnyland
+59.811508787362115, 22.91532583973079
+
+Ålön Helipad
+????
+Turku
+Southwest Finland
+60.269976112712804, 22.182166691245243
+
+Björneborg Helipad
+????
+Björneborg
+Satakunta
+61.59576777301197, 21.511996909971508
+
+
