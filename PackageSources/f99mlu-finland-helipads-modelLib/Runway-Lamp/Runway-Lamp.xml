@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{6b82dded-53d0-43b2-b46f-d10b4a1dae78}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Runway-Lamp.gltf"/>
+	</LODS>
+</ModelInfo>
