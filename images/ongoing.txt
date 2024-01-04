@@ -1,8 +1,51 @@
 
-63.33332764546412, 8.080498983844812
-Smøla heliport, Helsesenteret
-Smøla
-Møre 
-ENZL
+61.8672931832458, 30.14023784052695
+Niemi Helipad
+Niemi
+Pohjois-Karjala
+EFXG
 Circle
+
+60.474805, 22.0346948
+Naantali Hotel
+Naantali
+Southwest Finland
+EFXH
+Circle
+
+60.805767055435176, 21.414396019667233
+Uusikaupunki paloasema
+Uusikaupunki
+Southwest Finland
+EFXI
+Circle
+
+63.28824905459921, 28.050201364245126
+Tahko Helipad
+Tahko
+Pohjois-Savo
+EFXJ
+Circle
+
+63.845213802476614, 23.1028972210059
+Kokkolan terveyskeskus
+Kokkola
+Keski-Pohjanmaa
+EFXK
+Circle
+
+63.09860771157571, 21.638415673089618
+Vaasan paloasema
+Vaasa
+Pohjanmaan maakunta
+EFXV
+Circle
+
+66.15947339398262, 29.15560612651596
+Ruka Helipad
+Ruka
+Pohjois-Pohjanmaa
+EFXR
+Circle
+
 
