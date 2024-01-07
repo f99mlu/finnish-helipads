@@ -1,10 +1,10 @@
 
 
-66.15947339398262, 29.15560612651596
-Ruka Helipad
-Ruka
-Pohjois-Pohjanmaa
-EFXR
+62.22985521931195, 25.704007044373245
+Jyväskylä Nova Hospital
+Jyväskylä
+Keski-Suomi
+EFJV
 Circle
 
 

@@ -286,10 +286,10 @@
 		<Vertex lat="60.47483992523158" lon="22.03517114125734"/>
 		<Vertex lat="60.47501159767109" lon="22.03461840679149"/>
 	</Polygon>
-	<Airport groupIndex="8" groupID="1" groupGenerated="FALSE" region="Uusimaa" country="Finland" state="Uusimaa" city="Espoo" name="Jorvin Hospital" ident="EFEJ" lat="60.22073483012388" lon="24.68597281388116" alt="24.39027622435242" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="1" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="60.22073561155839" lon="24.68597282206595" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+	<Airport groupIndex="8" groupID="1" groupGenerated="FALSE" region="Uusimaa" country="Finland" state="Uusimaa" city="Espoo" name="Jorvi Hospital" ident="EFEJ" lat="60.22073483012388" lon="24.68597281388116" alt="24.39027622435242" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="1" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="60.22073561155839" lon="24.68597282206595" heading="44.456470" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="1" type="MEDICAL" lat="60.22073468439678" lon="24.68597371990167" alt="24.40336668863893" heading="44.456470" length="9.351384" width="9.351384" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.22073468439678" lon="24.68597371990167" alt="24.40336668863893" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.22073468439678" lon="24.68597371990167" alt="24.40336668863893" heading="44.456470"/>
 		<Aprons>
 			<Apron parentGroupID="1" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="5.507273" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="60.22106331329488" lon="24.68658587712910"/>
@@ -302,9 +302,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="5" groupID="2" groupGenerated="FALSE" region="Lapland" country="Finland" state="Lapland" city="Enontekiö" name="Kilpisjärvi Heliport" ident="EFEK" lat="69.00217122886033" lon="20.89703607564948" alt="483.23220550175756" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="2" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="69.00217122936743" lon="20.89703607557680" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="2" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="69.00217122936743" lon="20.89703607557680" heading="339.291382" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="2" type="CIRCLE" lat="69.00217122797984" lon="20.89703607564948" alt="483.10618222504854" heading="339.291382" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="69.00217122797984" lon="20.89703607564948" alt="483.10618222504854" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="69.00217122797984" lon="20.89703607564948" alt="483.10618222504854" heading="339.291382"/>
 		<Aprons>
 			<Apron parentGroupID="2" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.361435" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="69.00231990264656" lon="20.89630051772520"/>
@@ -316,10 +316,10 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="24" groupID="3" groupGenerated="FALSE" region="Tavastia Proper" country="Finland" state="Tavastia Proper" city="Hämeenlinna" name="Tavastia Proper Central Hospital" ident="EFHH" lat="60.99111701185368" lon="24.41539340933171" alt="133.98497607652098" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="3" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.99112124834827" lon="24.41538818115286" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+	<Airport groupIndex="24" groupID="3" groupGenerated="FALSE" region="Tavastia Proper" country="Finland" state="Tavastia Proper" city="Hämeenlinna" name="Kanta-Häme Hospital" ident="EFHH" lat="60.99111701185368" lon="24.41539340933171" alt="133.98497607652098" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<TaxiwayParking parentGroupID="3" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.99112124834827" lon="24.41538818115286" heading="350.293823" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="3" type="MEDICAL" lat="60.99111790180488" lon="24.41539175355801" alt="133.83280702307820" heading="350.293823" length="9.802746" width="9.802746" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.99111790180488" lon="24.41539175355801" alt="133.83280702307820" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.99111790180488" lon="24.41539175355801" alt="133.83280702307820" heading="350.293823"/>
 		<Aprons>
 			<Apron parentGroupID="3" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.99111704576887" lon="24.41519237467123"/>
@@ -360,9 +360,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="43" groupID="4" groupGenerated="FALSE" region="Northern Ostrobothnia" country="Finland" state="Northern Ostrobothnia" city="Oulu" name="Oulu University Hospital" ident="EFHO" lat="65.00383840452932" lon="25.52077652184898" alt="14.37795702181756" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="4" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="65.00383820005246" lon="25.52077675266068" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="4" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="65.00383820005246" lon="25.52077675266068" heading="36.160027" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="4" type="MEDICAL" lat="65.00383975245944" lon="25.52077887858422" alt="14.32297781202942" heading="36.160027" length="9.386053" width="9.386053" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="65.00383975245944" lon="25.52077887858422" alt="14.32297781202942" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="65.00383975245944" lon="25.52077887858422" alt="14.32297781202942" heading="36.160027"/>
 		<Aprons>
 			<Apron parentGroupID="4" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="65.00383863956017" lon="25.52059630163911"/>
@@ -426,7 +426,7 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	<Airport groupIndex="32" groupID="8" groupGenerated="FALSE" region="Central Finland" country="Finland" state="Central Finland" city="Jyväskylä" name="Central Finland Central Hospital" ident="EFJV" lat="62.23015943183190" lon="25.71152958058422" alt="146.25779343117028" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+	<Airport groupIndex="32" groupID="8" groupGenerated="FALSE" region="Keski-Suomi" country="Finland" state="Keski-Suomi" city="Jyväskylä" name="Jyväskylä Nova Hospital" ident="EFJV" lat="62.23015943183190" lon="25.71152958058422" alt="146.25779343117028" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
 		<TaxiwayParking parentGroupID="8" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="62.23015943201204" lon="25.71152958054635" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="8" type="NONE" lat="62.23015943186961" lon="25.71152958058402" alt="146.23710638377815" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="62.23015943186961" lon="25.71152958058402" alt="146.23710638377815" heading="0.00000000000000"/>
@@ -435,9 +435,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="46" groupID="9" groupGenerated="FALSE" region="Lapland" country="Finland" state="Lapland" city="Rovaniemi" name="Lapland Central Hospital" ident="EFLR" lat="66.49198593200133" lon="25.77844608794310" alt="106.32899172604084" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="9" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="66.49198702261589" lon="25.77844473637992" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="9" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="66.49198702261589" lon="25.77844473637992" heading="54.870056" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="9" type="MEDICAL" lat="66.49198739441303" lon="25.77844702090587" alt="105.45690187904984" heading="54.870056" length="7.974893" width="7.974893" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="66.49198739441303" lon="25.77844702090587" alt="105.45690187904984" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="66.49198739441303" lon="25.77844702090587" alt="105.45690187904984" heading="54.870056"/>
 		<Aprons>
 			<Apron parentGroupID="9" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="5.325522" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="66.49208368627765" lon="25.77848200884603"/>
@@ -450,9 +450,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="13" groupID="10" groupGenerated="FALSE" region="Åland" country="Finland" state="Åland" city="Mariehamn" name="Åland Central Hospital" ident="EFMH" lat="60.11474022281327" lon="19.93296520225678" alt="16.66538259573281" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="10" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.11473983981120" lon="19.93296493722865" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="10" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.11473983981120" lon="19.93296493722865" heading="7.326703" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="10" type="MEDICAL" lat="60.11474109876983" lon="19.93296584851821" alt="16.67142983339727" heading="7.326703" length="10.191128" width="10.191128" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.11474109876983" lon="19.93296584851821" alt="16.67142983339727" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.11474109876983" lon="19.93296584851821" alt="16.67142983339727" heading="7.326703"/>
 		<Aprons>
 			<Apron parentGroupID="10" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.11474022052742" lon="19.93275556125733"/>
@@ -584,9 +584,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="61" groupID="18" groupGenerated="FALSE" region="Kimitoön" country="Finland" state="Kimitoön" city="Kasnäs" name="Kasnäs Helipad" ident="EFXC" lat="59.92534939221929" lon="22.41008268959094" alt="1.38215524330735" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="18" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.92534939222943" lon="22.41008268959097" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="18" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="59.92534939222943" lon="22.41008268959097" heading="320.296844" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="18" type="CIRCLE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.296844" length="9.279769" width="9.279769" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.296844"/>
 		<Aprons>
 			<Apron parentGroupID="18" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.692951" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="59.92535733792202" lon="22.40990335079592"/>
@@ -599,9 +599,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="67" groupID="20" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Ålön Helipad" ident="EFXE" lat="60.27000095895391" lon="22.18210968900822" alt="0.20352537091821" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="20" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.27000229268357" lon="22.18210743295694" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="20" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.27000229268357" lon="22.18210743295694" heading="351.962341" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="20" type="SQUARE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.962341" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.962341"/>
 		<Aprons>
 			<Apron parentGroupID="20" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.26987045460749" lon="22.18173904614870"/>
@@ -624,17 +624,17 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="77" groupID="23" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Naantali" name="Naantali Hotel" ident="EFXG" lat="60.47480499999057" lon="22.03469479997132" alt="0.14796586520970" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="23" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.47480500000000" lon="22.03469480000000" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="23" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.47480500000000" lon="22.03469480000000" heading="-61.436234" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="23" type="H" lat="60.47480499998117" lon="22.03469480000035" alt="0.10888169705868" heading="-61.436234" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="TRUE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.47480499998117" lon="22.03469480000035" alt="0.10888169705868" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.47480499998117" lon="22.03469480000035" alt="0.10888169705868" heading="-61.436234"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="17" groupID="17" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Houtskär Helipad" ident="EFXH" lat="60.21946840370855" lon="21.37607123888005" alt="3.69900298397988" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="17" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="60.21946867459366" lon="21.37607300694511" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="17" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="60.21946867459366" lon="21.37607300694511" heading="320.363617" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="17" type="SQUARE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.363617" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.363617"/>
 		<Aprons>
 			<Apron parentGroupID="17" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.691785" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="60.21940447175837" lon="21.37608465006901"/>
@@ -647,9 +647,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="83" groupID="25" groupGenerated="FALSE" region="Pohjois-Savo" country="Finland" state="Pohjois-Savo" city="Tahko" name="Tahko Helipad" ident="EFXJ" lat="63.28826017941188" lon="28.05026984088800" alt="122.67436874564737" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="25" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.28826002916736" lon="28.05026669830692" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="25" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.28826002916736" lon="28.05026669830692" heading="73.567207" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="25" type="CIRCLE" lat="63.28826006664493" lon="28.05027082717232" alt="122.68906236812472" heading="73.567207" length="3.722519" width="3.722489" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="63.28826006664493" lon="28.05027082717232" alt="122.68906236812472" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="63.28826006664493" lon="28.05027082717232" alt="122.68906236812472" heading="73.567207"/>
 		<Aprons>
 			<Apron parentGroupID="25" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="4.999195" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="63.28829343544179" lon="28.05031029158641"/>
@@ -711,9 +711,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="74" groupID="22" groupGenerated="FALSE" region="Pohjois-Karjala" country="Finland" state="Pohjois-Karjala" city="Niemi" name="Niemi Helipad" ident="EFXN" lat="61.86731534267434" lon="30.14024586214734" alt="82.63321766722947" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="22" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.86731562830325" lon="30.14026166170061" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="22" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="61.86731562830325" lon="30.14026166170061" heading="105.125557" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="22" type="SQUARE" lat="61.86731450885677" lon="30.14025544660115" alt="82.67749980837107" heading="105.125557" length="10.303536" width="10.303536" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="61.86731450885677" lon="30.14025544660115" alt="82.67749980837107" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="61.86731450885677" lon="30.14025544660115" alt="82.67749980837107" heading="105.125557"/>
 		<Aprons>
 			<Apron parentGroupID="22" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="4.448398" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="61.86738713524100" lon="30.14051678557373"/>
@@ -734,9 +734,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="64" groupID="19" groupGenerated="FALSE" region="Västnyland" country="Finland" state="Västnyland" city="Tulludden" name="Tulludden Helipad" ident="EFXT" lat="59.81150488634529" lon="22.91528617512933" alt="1.60129406489432" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2209.85049251876762" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="19" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="59.81150332520033" lon="22.91528425513286" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="19" groupIndex="2" index="0" type="RAMP_GA_SMALL" lat="59.81150332520033" lon="22.91528425513286" heading="45.000141" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="19" type="H" lat="59.81150488591673" lon="22.91528617676685" alt="1.56459472980350" heading="45.000141" length="11.601784" width="11.601784" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="59.81150488591673" lon="22.91528617676685" alt="1.56459472980350" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.81150488591673" lon="22.91528617676685" alt="1.56459472980350" heading="45.000141"/>
 		<Aprons>
 			<Apron parentGroupID="19" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="5.497785" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="59.81183419007737" lon="22.91540862546747"/>
@@ -749,9 +749,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="80" groupID="24" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Uusikaupunki" name="Uusikaupunki paloasema" ident="EFXU" lat="60.80576110364466" lon="21.41449747496952" alt="19.38619593996555" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="24" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.80576028641362" lon="21.41450637958721" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="24" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="60.80576028641362" lon="21.41450637958721" heading="-10.275705" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="24" type="CIRCLE" lat="60.80576427128366" lon="21.41450168438515" alt="19.49077345989645" heading="-10.275705" length="16.265406" width="16.265406" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80576427128366" lon="21.41450168438515" alt="19.49077345989645" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.80576427128366" lon="21.41450168438515" alt="19.49077345989645" heading="-10.275705"/>
 		<Aprons>
 			<Apron parentGroupID="24" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.179345" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="60.80610964300946" lon="21.41382297094178"/>
@@ -764,9 +764,9 @@
 		<ApronEdgeLights/>
 	</Airport>
 	<Airport groupIndex="89" groupID="27" groupGenerated="FALSE" region="Pohjanmaan maakunta" country="Finland" state="Pohjanmaan maakunta" city="Vaasa" name="Vaasan paloasema" ident="EFXV" lat="63.09861618333187" lon="21.63840268905978" alt="10.08186861965805" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2140.00015577039039" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.09861585853761" lon="21.63840696487116" heading="0.000000" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking parentGroupID="27" groupIndex="1" index="0" type="RAMP_GA_SMALL" lat="63.09861585853761" lon="21.63840696487116" heading="-8.374642" radius="4.000000" name="PARKING" number="0" suffix="NONE" numberMarking="FALSE" has3DMesh="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<Helipad parentGroupID="27" type="SQUARE" lat="63.09861766786216" lon="21.63840753918292" alt="9.85098169744015" heading="-8.374642" length="11.976336" width="11.976336" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="63.09861766786216" lon="21.63840753918292" alt="9.85098169744015" heading="0.00000000000000"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="63.09861766786216" lon="21.63840753918292" alt="9.85098169744015" heading="-8.374642"/>
 		<Aprons>
 			<Apron parentGroupID="27" groupIndex="3" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.146165" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="63.09898514368697" lon="21.63822525276036"/>
