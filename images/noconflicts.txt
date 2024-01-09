@@ -1,0 +1,13 @@
+Add-on Conflicts
+
+Finnish Medical Helipads
+https://fsaddons.fi/index.php/msfs2020-sceneries/download/2-msfs2020-sceneries/4-finland-medical-helipads
+EFPJ - Kuopio, University Hospital helipad
+EFHY - Helsinki, University Hospital helipad
+EFEJ - Espoo, Jorvi Hospital helipad
+EFTV - Turku, University Hospital helipad
+EFMH - Mariehamn, Central Hospital helipad
+EFPE - Vantaa, Peijas Hospital helipad
+EFHH - Hämeenlinna, Kanta-Häme Hospital helipad
+EFJV - Jyväskylä, Hospital Nova helipad
+EFPT - Tampere University Hospital helipad
