@@ -1,57 +1,50 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="68" lat="61.59576777297919" lon="21.51199690996184" alt="16.91504408484480" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="4" lat="59.92534939219112" lon="22.41008268959374" alt="16.69085188660445" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
-	
-		<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="14" lat="60.21944259981437" lon="21.37611876939096" alt="17.57093346920277" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject lat="60.21944259981437" lon="21.37611876939096" alt="17.57093346920277" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
-	
-		<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="59" lat="59.92534939219112" lon="22.41008268959374" alt="16.69085188660445" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="7" lat="60.26997611268509" lon="22.18216669124929" alt="16.94643758259495" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
-	
-		<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="90" lat="66.15947339373855" lon="29.15560612652520" alt="15.86923198967980" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="10" lat="61.59576777297919" lon="21.51199690996184" alt="16.91504408484480" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
-	
-		<!--SceneryObject name: Light_Warm-->
-	<SceneryObject groupIndex="65" lat="60.26997611268509" lon="22.18216669124929" alt="16.94643758259495" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<!--SceneryObject name: Light_Warm-->
+	<SceneryObject groupIndex="13" lat="66.15947339373855" lon="29.15560612652520" alt="15.86923198967980" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{DB0162E7-91A2-46E9-81B7-55A66CEC8839}" scale="1.000000"/>
 	</SceneryObject>
-	
-		<SceneryObject groupIndex="69" lat="61.59610501709493" lon="21.51164104312880" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="5" lat="59.92557455126298" lon="22.41018357511654" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	
-		<SceneryObject groupIndex="16" lat="60.21917803490187" lon="21.37641372482194" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="2" lat="60.21917803490187" lon="21.37641372482194" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	
-		<SceneryObject groupIndex="60" lat="59.92557455126298" lon="22.41018357511654" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="8" lat="60.27003415996330" lon="22.18266499145484" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	
-		<SceneryObject groupIndex="91" lat="66.15937978736571" lon="29.15511712292156" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="11" lat="61.59610501709493" lon="21.51164104312880" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	
-		<SceneryObject groupIndex="66" lat="60.27003415996358" lon="22.18266499145483" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject groupIndex="14" lat="66.15937978736571" lon="29.15511712292156" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<SimObject containerTitle="Windsock" scale="1.000000"/>
 	</SceneryObject>
-	
-	<Polygon groupIndex="15" altitude="3.65899133682251">
+	<Polygon groupIndex="1" altitude="3.65899133682251">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{F06DCD1E-188B-4D7F-A57D-711A48C92C7C}"/>
-		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="100.000000"/>
+		<Attribute name="FlattenFalloff" guid="{5548FDB5-2267-4328-8E6F-FD0A45ADEC8F}" type="FLOAT32" value="49.667664"/>
 		<Attribute name="FlattenMode" guid="{065E9D4D-6984-4D2A-91FD-3C33C4F53B22}" type="UINT8" value="1"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
 		<Attribute name="PreciseTerraforming" guid="{4D2A51D4-91AC-412F-833E-212CC10E5FBC}" type="UINT8" value="1"/>
+		<Attribute name="AffectRocks" guid="{F60DBBC7-DE6F-4FEA-BE7E-AFB1D73D57E7}" type="UINT8" value="1"/>
+		<Attribute name="ExcludeRocks" guid="{F104723A-D6D1-4B2E-9B44-ACCD8AB372DC}" type="UINT8" value="1"/>
+		<Attribute name="GeomeName" guid="{F0B11821-16FC-407B-BE5A-DBEB67A77571}" type="STRING" value=""/>
 		<Vertex lat="60.21977701109973" lon="21.37571016294364"/>
 		<Vertex lat="60.21953917146963" lon="21.37556685225555"/>
 		<Vertex lat="60.21889198790011" lon="21.37661656125142"/>
@@ -59,12 +52,11 @@
 		<Vertex lat="60.22019700311169" lon="21.37683352203594"/>
 		<Vertex lat="60.22002264818437" lon="21.37614217571006"/>
 	</Polygon>
-	
-<Airport groupIndex="70" groupID="21" groupGenerated="FALSE" region="Satakunta" country="Finland" state="Satakunta" city="Björneborg" name="Björneborg Helipad" ident="EFXB" lat="61.59575094439738" lon="21.51198880483622" alt="2.34233801718801" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<Helipad parentGroupID="21" type="CIRCLE" lat="61.59575242920614" lon="21.51198897091239" alt="2.08160425256938" heading="0.000000" length="5.880612" width="5.880612" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+	<Airport groupIndex="12" groupID="1" groupGenerated="FALSE" region="Satakunta" country="Finland" state="Satakunta" city="Björneborg" name="Björneborg Helipad" ident="EFXB" lat="61.59575094439738" lon="21.51198880483622" alt="2.34233801718801" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<Helipad parentGroupID="1" type="CIRCLE" lat="61.59575242920614" lon="21.51198897091239" alt="2.08160425256938" heading="0.000000" length="5.880612" width="5.880612" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
 		<Start type="HELIPAD" number="1" designator="NONE" lat="61.59575242920614" lon="21.51198897091239" alt="2.08160425256938" heading="0.00000000000000"/>
 		<Aprons>
-			<Apron parentGroupID="21" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="1" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="61.59575141906096" lon="21.51181566192075"/>
 				<Vertex lat="61.59576751393057" lon="21.51181898919788"/>
 				<Vertex lat="61.59578299029107" lon="21.51182884334997"/>
@@ -102,27 +94,11 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	
-	<Airport groupIndex="17" groupID="17" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Houtskär Helipad" ident="EFXH" lat="60.21946840370855" lon="21.37607123888005" alt="3.69900298397988" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<Helipad parentGroupID="17" type="SQUARE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.363617" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.363617"/>
+	<Airport groupIndex="6" groupID="3" groupGenerated="FALSE" region="Kimitoön" country="Finland" state="Kimitoön" city="Kasnäs" name="Kasnäs Helipad" ident="EFXC" lat="59.92534939221929" lon="22.41008268959094" alt="1.38215524330735" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<Helipad parentGroupID="3" type="CIRCLE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.296844" length="9.279769" width="9.279769" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.29684448242188"/>
 		<Aprons>
-			<Apron parentGroupID="17" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.691785" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
-				<Vertex lat="60.21940447175837" lon="21.37608465006901"/>
-				<Vertex lat="60.21944180464642" lon="21.37617524078371"/>
-				<Vertex lat="60.21941954540360" lon="21.37621230217502"/>
-				<Vertex lat="60.21938221254071" lon="21.37612171147959"/>
-			</Apron>
-		</Aprons>
-		<PaintedElements/>
-		<ApronEdgeLights/>
-	</Airport>
-	
-	<Airport groupIndex="61" groupID="18" groupGenerated="FALSE" region="Kimitoön" country="Finland" state="Kimitoön" city="Kasnäs" name="Kasnäs Helipad" ident="EFXC" lat="59.92534939221929" lon="22.41008268959094" alt="1.38215524330735" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<Helipad parentGroupID="18" type="CIRCLE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.296844" length="9.279769" width="9.279769" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="59.92534939217096" lon="22.41008268959111" alt="1.39451777096838" heading="320.296844"/>
-		<Aprons>
-			<Apron parentGroupID="18" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.692951" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+			<Apron parentGroupID="3" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.692951" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
 				<Vertex lat="59.92535733792202" lon="22.40990335079592"/>
 				<Vertex lat="59.92544047561676" lon="22.41010281939857"/>
 				<Vertex lat="59.92534034707272" lon="22.41026843988746"/>
@@ -132,20 +108,11 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
-	
-		<Airport groupIndex="92" groupID="28" groupGenerated="FALSE" region="Pohjois-Pohjanmaa" country="Finland" state="Pohjois-Pohjanmaa" city="Ruka" name="Ruka Helipad" ident="EFXR" lat="66.15947339331561" lon="29.15560612682556" alt="456.50492937862873" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<Helipad parentGroupID="28" type="CIRCLE" lat="66.15947339348939" lon="29.15560612682545" alt="456.44464574754238" heading="0.000000" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="66.15947339348939" lon="29.15560612682545" alt="456.44464574754238" heading="0.00000000000000"/>
-		<Aprons/>
-		<PaintedElements/>
-		<ApronEdgeLights/>
-	</Airport>
-	
-	<Airport groupIndex="67" groupID="20" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Ålön Helipad" ident="EFXE" lat="60.27000095895391" lon="22.18210968900822" alt="0.20352537091821" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
-		<Helipad parentGroupID="20" type="SQUARE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.962341" length="13.542000" width="13.542000" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
-		<Start type="HELIPAD" number="1" designator="NONE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.962341"/>
+	<Airport groupIndex="9" groupID="5" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Ålön Helipad" ident="EFXE" lat="60.27000095895391" lon="22.18210968900822" alt="0.20352537091821" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<Helipad parentGroupID="5" type="SQUARE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.962341" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.27000475792905" lon="22.18211022627242" alt="-0.00173677690327" heading="351.96234130859375"/>
 		<Aprons>
-			<Apron parentGroupID="20" groupIndex="2" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
+			<Apron parentGroupID="5" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="FALSE" stretchUV="FALSE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.000000" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="FALSE">
 				<Vertex lat="60.26987045460749" lon="22.18173904614870"/>
 				<Vertex lat="60.26990934975760" lon="22.18228048006769"/>
 				<Vertex lat="60.27007442758670" lon="22.18221771456810"/>
@@ -165,5 +132,25 @@
 		<PaintedElements/>
 		<ApronEdgeLights/>
 	</Airport>
+	<Airport groupIndex="3" groupID="2" groupGenerated="FALSE" region="Southwest Finland" country="Finland" state="Southwest Finland" city="Turku" name="Houtskär Helipad" ident="EFXH" lat="60.21946840370855" lon="21.37607123888005" alt="3.69900298397988" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<Helipad parentGroupID="2" type="SQUARE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.363617" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="60.21947064353057" lon="21.37607071312449" alt="3.63856179732829" heading="320.36361694335938"/>
+		<Aprons>
+			<Apron parentGroupID="2" groupIndex="1" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" drawSurface="TRUE" drawDetail="TRUE" localUV="TRUE" stretchUV="TRUE" flipUV="FALSE" priority="0" tiling="25.000000" heading="0.691785" falloff="0.000000" opacity="255" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE" isRectangle="TRUE">
+				<Vertex lat="60.21940447175837" lon="21.37608465006901"/>
+				<Vertex lat="60.21944180464642" lon="21.37617524078371"/>
+				<Vertex lat="60.21941954540360" lon="21.37621230217502"/>
+				<Vertex lat="60.21938221254071" lon="21.37612171147959"/>
+			</Apron>
+		</Aprons>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
+	<Airport groupIndex="15" groupID="4" groupGenerated="FALSE" region="Pohjois-Pohjanmaa" country="Finland" state="Pohjois-Pohjanmaa" city="Ruka" name="Ruka Helipad" ident="EFXR" lat="66.15947339331561" lon="29.15560612682556" alt="456.50492937862873" magvar="0.000000" trafficScalar="1.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE" groundMergingTransfertBright="7.000000" groundMergingTransfertDark="7.000000">
+		<Helipad parentGroupID="4" type="CIRCLE" lat="66.15947339348939" lon="29.15560612682545" alt="456.44464574754238" heading="0.000000" length="13.542000" width="13.542000" surface="CONCRETE" closed="FALSE" transparent="FALSE"/>
+		<Start type="HELIPAD" number="1" designator="NONE" lat="66.15947339348939" lon="29.15560612682545" alt="456.44464574754238" heading="0.00000000000000"/>
+		<Aprons/>
+		<PaintedElements/>
+		<ApronEdgeLights/>
+	</Airport>
 </FSData>
-
