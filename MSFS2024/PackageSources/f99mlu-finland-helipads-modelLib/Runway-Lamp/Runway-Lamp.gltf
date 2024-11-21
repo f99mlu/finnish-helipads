@@ -1,0 +1,504 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v1.8.19 and Asobo Studio MSFS Blender I/O v1.1.6",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention",
+        "ASOBO_material_glass"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                4
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Bolts"
+        },
+        {
+            "mesh" : 1,
+            "name" : "Glass"
+        },
+        {
+            "mesh" : 2,
+            "name" : "Lamp_Light",
+            "translation" : [
+                0,
+                0.3262897729873657,
+                0
+            ]
+        },
+        {
+            "mesh" : 3,
+            "name" : "Reflective"
+        },
+        {
+            "children" : [
+                0,
+                1,
+                2,
+                3
+            ],
+            "mesh" : 4,
+            "name" : "Lamp"
+        }
+    ],
+    "materials" : [
+        {
+            "name" : "Lamp",
+            "normalTexture" : {
+                "index" : 0
+            },
+            "occlusionTexture" : {
+                "index" : 1
+            },
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 2
+                },
+                "metallicRoughnessTexture" : {
+                    "index" : 1
+                }
+            }
+        },
+        {
+            "alphaMode" : "BLEND",
+            "extensions" : {
+                "ASOBO_material_glass" : {
+                    "glassReflectionMaskFactor" : 0,
+                    "glassDeformationFactor" : 0
+                }
+            },
+            "name" : "Glass",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.10000000149011612
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0.11364500038325787,
+                1,
+                0.03082999959588051
+            ],
+            "name" : "Lamp_Emis",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.022729290649294853,
+                    0.8000000715255737,
+                    0.0061662811785936356,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Bolts",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Glass",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        },
+        {
+            "name" : "Lamp_Light",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 8,
+                        "NORMAL" : 9,
+                        "TEXCOORD_0" : 10
+                    },
+                    "indices" : 11,
+                    "material" : 2
+                }
+            ]
+        },
+        {
+            "name" : "Reflective",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 12,
+                        "NORMAL" : 13,
+                        "TEXCOORD_0" : 14
+                    },
+                    "indices" : 15,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "Lamp",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 16,
+                        "NORMAL" : 17,
+                        "TEXCOORD_0" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        },
+        {
+            "sampler" : 0,
+            "source" : 1
+        },
+        {
+            "sampler" : 0,
+            "source" : 2
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Lamp_NORM",
+            "uri" : "Lamp_NORM.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Lamp_COMP",
+            "uri" : "Lamp_COMP.png"
+        },
+        {
+            "mimeType" : "image/png",
+            "name" : "Lamp_ALBD",
+            "uri" : "Lamp_ALBD.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 1790,
+            "max" : [
+                0.06721950322389603,
+                0.28558942675590515,
+                0.07225779443979263
+            ],
+            "min" : [
+                -0.07383183389902115,
+                0.006094789132475853,
+                -0.07186277955770493
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1790,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 1790,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 7704,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 273,
+            "max" : [
+                0.056835513561964035,
+                0.46552324295043945,
+                0.05683555826544762
+            ],
+            "min" : [
+                -0.05683556944131851,
+                0.2858811020851135,
+                -0.056835539638996124
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 273,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 273,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 1536,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 1587,
+            "max" : [
+                0.04905877634882927,
+                0.12482763081789017,
+                0.049058787524700165
+            ],
+            "min" : [
+                -0.04905875399708748,
+                -0.04181912541389465,
+                -0.049058765172958374
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5126,
+            "count" : 1587,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 1587,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5123,
+            "count" : 4698,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 192,
+            "max" : [
+                0.056835513561964035,
+                0.29245033860206604,
+                0.05683555826544762
+            ],
+            "min" : [
+                -0.05683556944131851,
+                0.2634862959384918,
+                -0.056835539638996124
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 192,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5126,
+            "count" : 192,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5123,
+            "count" : 576,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 3119,
+            "max" : [
+                0.08399999886751175,
+                0.2858811020851135,
+                0.08399999886751175
+            ],
+            "min" : [
+                -0.08399999886751175,
+                -0.0062528252601623535,
+                -0.08399999886751175
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 3119,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 3119,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5123,
+            "count" : 8736,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 21480,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21480,
+            "byteOffset" : 21480
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14320,
+            "byteOffset" : 42960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 15408,
+            "byteOffset" : 57280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3276,
+            "byteOffset" : 72688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3276,
+            "byteOffset" : 75964
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2184,
+            "byteOffset" : 79240
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3072,
+            "byteOffset" : 81424
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 19044,
+            "byteOffset" : 84496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 19044,
+            "byteOffset" : 103540
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 12696,
+            "byteOffset" : 122584
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9396,
+            "byteOffset" : 135280
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2304,
+            "byteOffset" : 144676
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2304,
+            "byteOffset" : 146980
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1536,
+            "byteOffset" : 149284
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1152,
+            "byteOffset" : 150820
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 37428,
+            "byteOffset" : 151972
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 37428,
+            "byteOffset" : 189400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24952,
+            "byteOffset" : 226828
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 17472,
+            "byteOffset" : 251780
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 269252,
+            "uri" : "Runway-Lamp.bin"
+        }
+    ]
+}
